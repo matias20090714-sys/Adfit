@@ -88,7 +88,7 @@ function showCheckoutToast() {
             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#10b981" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
             <div class="toast-text">
                 <strong>Abriendo el checkout seguro...</strong>
-                <span>Estás a un paso de dominar Hotmart</span>
+                <span>Estás a un paso de empezar tu negocio digital</span>
             </div>
         </div>
     `;
